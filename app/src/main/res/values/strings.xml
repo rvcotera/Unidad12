@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unidad12</string>
+    <!--apis -->
+    <string name="facebook_app_id">185692518548434</string>
+    <string name="id_banner">ca-app-pub-2368995694882907/2991016470</string>
+
+    <!-- mensajes error facebook-->
+    <string name="cancel_login">Login cancelado</string>
+    <string name="error_login">Error al conectarse</string>
+
+    <!--mensajes del activity_main-->
+    <string name="main.mensaje.field">Bienvenido</string>
+    <string name="main.cerrar.button">Cerrar Sesión</string>
+    <string name="main.banner.field">Banner</string>
+
+</resources>
